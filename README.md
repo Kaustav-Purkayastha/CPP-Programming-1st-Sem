@@ -4,7 +4,7 @@
 
 
 ### 🔥 Let\'s Connect! 👇 
-  <br>
+  <br/>
   <a href="https://twitter.com/imKaustav_">
     <img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
   </a>&ensp;
@@ -29,7 +29,7 @@
 #### Q1) &ensp; Write a C++ program that creates a class and to perform swapping of two numbers without using third variable.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-01/swapping.cpp) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-01/swapping.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q2) &ensp; Write a C++ program to perform the following matrix operations (2D array implementation): 
@@ -39,25 +39,25 @@
 #### &ensp; (iv) Transpose
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-02/matrixchoice.cpp) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-02/matrixchoiceoutputs/) 🖥
-<br>
+<br/>
 
 
 #### Q3) &ensp; Write a C++ program that reads two Matrices (2D array) using constructor and perform multiplication operation.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-03/matrixconstructor.cpp) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-03/matrixconstructor.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q4) &ensp; Write a C++ program to create the Person class. Create some objects of this class (by taking the information from the user). Inherit the class Person to create two classes Teacher and Student. Maintain the respective information in the classes and create, display and delete objects of these two classes (Use Runtime Polymorphism).
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-04/inheritance.cpp) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-04/inheritance.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q5) &ensp; Write a C++ program to create a class triangle. Include overloaded functions for calculating area. Overload assignment operator and equality operator.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-05/overloading.cpp) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/CPP-Programming-1st-Sem/blob/main/Solutions/Q-05/overloadingoutputs/) 🖥
-<br>
+<br/>
 
 
 
