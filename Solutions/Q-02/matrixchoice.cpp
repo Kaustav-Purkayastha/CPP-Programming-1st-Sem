@@ -1,8 +1,8 @@
 // By - Kaustav Purkayastha ( Gurucharan University, Silchar - @ Department of Computer Science )
 
 /* 2. Create matrix class using templates. Write a C++ program to perform the
-	  following matrix operations(2D array implementation):
-	  (i) Sum, (ii) Difference, (iii) Product, (iv) Transpose*/
+	following matrix operations (2D array implementation):
+	(i) Sum, (ii) Difference, (iii) Product, (iv) Transpose		*/
 
 
 #include<iostream>
