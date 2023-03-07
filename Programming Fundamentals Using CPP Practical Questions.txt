@@ -1,0 +1,15 @@
+LIST OF PRACTICAL QUESTIONS:
+
+1. Write a C++ program that creates a class and to perform swapping of two numbers without using third variable.
+
+2. Write a C++ program to perform the following matrix operations(2D array implementation): 
+	(i) Sum, (ii) Difference, (iii) Product, (iv) Transpose.
+
+3. Write a C++ program that reads two Matrices(2D array) using constructor and perform multiplication operation.
+
+4. Write a C++ program to create the Person class. Create some objects of this class(by taking the information from the user). 
+   Inherit the class Person to create two classes Teacher and Student. Maintain the respective information in the classes and create, display and delete objects of these two classes(Use Runtime Polymorphism).
+
+5. Write a C++ program to create a class triangle. Include overloaded functions for calculating area. Overload assignment operator and equality operator.
+
+
