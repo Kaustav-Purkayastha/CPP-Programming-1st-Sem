@@ -1,6 +1,6 @@
 #  💻 Programming Fundamentals using C++
 
-![CPP-Programming-1st-Sem](https://socialify.git.ci/Kaustav-Purkayastha/CPP-Programming-1st-Sem/image?description=1&descriptionEditable=CSC-C-101-L%20-%3E%20%0AProgramming%20Fundamentals%20using%20C%2FC%2B%2B%20(LAB)%20&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+![CPP-Programming-1st-Sem](https://socialify.git.ci/Kaustav-Purkayastha/CPP-Programming-1st-Sem/image?description=1&descriptionEditable=CSC-C-101-L%20-%3E%20%0AProgramming%20Fundamentals%20using%20C%2FC%2B%2B%20(LAB)%20&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark)
 
 
 ### 🔥 Let\'s Connect! 👇 
